@@ -1,5 +1,5 @@
 # Son_T_Project_2
-@nd Project of MMED-1056-01-20S
+2nd Project of MMED-1056-01-20S
 ## Installation
 There is no installation process for this repo.Simply pulldown and start working!
 
